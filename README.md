@@ -2,7 +2,7 @@
 My first repository
 
 # Information about my favorite movie
-**Movie Title: Hustle
+**Movie Title: Hustle**
 [Movie Link](https://www.bing.com/ck/a?!&&p=206d4793f07db53ebb651579ab7f00cb106921c84f34c2c4af47f2fb8aca8ce1JmltdHM9MTc2MTUyMzIwMA&ptn=3&ver=2&hsh=4&fclid=3748e0d7-43e9-666c-163c-f6444274677d&psq=hustle+movie+link&u=a1aHR0cHM6Ly93d3cubmV0ZmxpeC5jb20vdGl0bGUvODAyNDIzNDI)
 
 # Genre 
